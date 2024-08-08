@@ -1,0 +1,14 @@
+E:\@TestDocument\.NetCore\TimerControl\obj\Debug\net7.0\TimerControl.GeneratedMSBuildEditorConfig.editorconfig
+E:\@TestDocument\.NetCore\TimerControl\obj\Debug\net7.0\TimerControl.AssemblyInfoInputs.cache
+E:\@TestDocument\.NetCore\TimerControl\obj\Debug\net7.0\TimerControl.AssemblyInfo.cs
+E:\@TestDocument\.NetCore\TimerControl\obj\Debug\net7.0\TimerControl.csproj.CoreCompileInputs.cache
+E:\@TestDocument\.NetCore\TimerControl\bin\Debug\net7.0\TimerControl.exe
+E:\@TestDocument\.NetCore\TimerControl\bin\Debug\net7.0\TimerControl.deps.json
+E:\@TestDocument\.NetCore\TimerControl\bin\Debug\net7.0\TimerControl.runtimeconfig.json
+E:\@TestDocument\.NetCore\TimerControl\bin\Debug\net7.0\TimerControl.dll
+E:\@TestDocument\.NetCore\TimerControl\bin\Debug\net7.0\TimerControl.pdb
+E:\@TestDocument\.NetCore\TimerControl\obj\Debug\net7.0\TimerControl.dll
+E:\@TestDocument\.NetCore\TimerControl\obj\Debug\net7.0\refint\TimerControl.dll
+E:\@TestDocument\.NetCore\TimerControl\obj\Debug\net7.0\TimerControl.pdb
+E:\@TestDocument\.NetCore\TimerControl\obj\Debug\net7.0\TimerControl.genruntimeconfig.cache
+E:\@TestDocument\.NetCore\TimerControl\obj\Debug\net7.0\ref\TimerControl.dll
